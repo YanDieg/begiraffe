@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Be Giraffe"
-baseURL = "https://yandieg.github.io/begiraffe/"
+baseURL = "/begiraffe/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
