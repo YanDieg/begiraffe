@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Prima Consulenza Gratuita",
+    "description": "I nuovi clienti potranno ricevere una prima consulenza gratuita (1h)",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Pacchetti Servizi",
+    "description": "Sono disponibili vari pacchetti servizi",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Offerte Personalizzate",
+    "description": "Offerte personalizzate in base alla tipologia di consulenza",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
