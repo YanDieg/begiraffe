@@ -1,7 +1,8 @@
 languageCode = "en-us"
 title = "Be Giraffe"
-baseURL = "/begiraffe/public/"
-themesDir = "/begiraffe/themes"
+baseURL = "/"
+themesDir = "themes"
+publishDir = "docs"
 theme = "hugo-serif-theme"
 
 [params]
