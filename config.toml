@@ -15,7 +15,7 @@ theme = "hugo-serif-theme"
 
   [params.logo]
     mobile = "images/logo-mobile.svg"
-    desktop = "images/logo.svg"
+    desktop = "images/logotext.svg"
     desktop_height = "36px"
     alt = "Be Giraffe - ICT Consulting"
 
